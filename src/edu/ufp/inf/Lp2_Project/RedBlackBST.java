@@ -27,7 +27,7 @@
  *
  ******************************************************************************/
 
-package edu.princeton.cs.algs4;
+package edu.ufp.inf.Lp2_Project;
 
 import java.util.NoSuchElementException;
 

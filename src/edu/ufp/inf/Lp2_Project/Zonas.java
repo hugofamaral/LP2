@@ -30,9 +30,6 @@ public class Zonas extends EdgeWeightedGraph {
         return nome;
     }
 
-    public Vector getPertencem() {
-        return pertencem;
-    }
 
     public void setIdZona(Integer idZona) {
         this.idZona = idZona;
@@ -42,36 +39,28 @@ public class Zonas extends EdgeWeightedGraph {
         this.nome = nome;
     }
 
-    public void setPertencem(Vector pertencem) {
-        this.pertencem = pertencem;
-    }
-
-    public Zonas(Integer idZona, String nome, Vector pertencem, int V) {
+    public Zonas(Integer idZona, String nome,int V) {
         super(V);
         this.idZona = idZona;
         this.nome = nome;
-        this.pertencem = pertencem;
     }
 
-    public Zonas(Integer idZona, String nome, Vector pertencem, int V, int E) {
+    public Zonas(Integer idZona, String nome, int V, int E) {
         super(V, E);
         this.idZona = idZona;
         this.nome = nome;
-        this.pertencem = pertencem;
     }
 
-    public Zonas(Integer idZona, String nome, Vector pertencem, In in) {
+    public Zonas(Integer idZona, String nome, In in) {
         super(in);
         this.idZona = idZona;
         this.nome = nome;
-        this.pertencem = pertencem;
     }
 
-    public Zonas(Integer idZona, String nome, Vector pertencem, EdgeWeightedGraph G) {
+    public Zonas(Integer idZona, String nome, EdgeWeightedGraph G) {
         super(G);
         this.idZona = idZona;
         this.nome = nome;
-        this.pertencem = pertencem;
     }
     
 }

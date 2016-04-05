@@ -1,6 +1,5 @@
 package edu.ufp.inf.Lp2_Project;
 
-import java.util.Vector;
 
 public class Linha {
 
@@ -8,17 +7,11 @@ public class Linha {
 
   public String nome;
 
-    public Vector  myParagem;
-    /**
-   * 
-   * @element-type Paragem
-   */
-  public Vector  conjunto;
 
   public void addLinhas(Linha l) {
   }
 
-  public Bolean searchLinha(Linha l) {
+  public Boolean searchLinha(Linha l) {
   return null;
   }
 

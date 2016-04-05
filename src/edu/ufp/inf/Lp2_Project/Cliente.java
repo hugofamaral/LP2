@@ -1,5 +1,7 @@
 package edu.ufp.inf.Lp2_Project;
 
+import java.util.Date;
+
 public class Cliente extends RedBlackBST {
 
   public Integer idCliente;
@@ -8,7 +10,7 @@ public class Cliente extends RedBlackBST {
 
   public long nif;
 
-  public Data dataNascimento;
+  public Date dataNascimento;
 
   public Coordenada local;
 

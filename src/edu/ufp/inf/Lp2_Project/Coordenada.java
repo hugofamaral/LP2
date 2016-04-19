@@ -2,28 +2,28 @@ package edu.ufp.inf.Lp2_Project;
 
 public class Coordenada {
 
-    private long lat;
+    private double lat;
 
-    private long lon;
+    private double lon;
 
-    public Coordenada(long lat, long lon) {
+    public Coordenada(double lat, double lon) {
         this.lat = lat;
         this.lon = lon;
     }
 
-    public long getLat() {
+    public double getLat() {
         return lat;
     }
 
-    public long getLon() {
+    public double getLon() {
         return lon;
     }
 
-    public void setLat(long lat) {
+    public void setLat(double lat) {
         this.lat = lat;
     }
 
-    public void setLon(long lon) {
+    public void setLon(double lon) {
         this.lon = lon;
     }
 

@@ -10,5 +10,6 @@ package edu.ufp.inf.Lp2_Project;
  * @author costa_000
  */
 public class Rede {
+    public String nome;
     
 }

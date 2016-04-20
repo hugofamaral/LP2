@@ -1,0 +1,73 @@
+1;41.237523;-8.669673;Aeroporto 
+2;Aliados
+3;Alto de Pega
+4;Araújo
+5;Árvore
+6;Azurara
+7;Bolhão
+8;Botica
+9;Bougado
+10;Brito Capelo
+11;Câmara Gaia
+12;Câmara Matosinhos
+13;Campanhã
+14;Campo 24 Agosto
+15;Cândido dos Reis
+16;Carolina Michaelis
+17;Casa da Música
+18;Castêlo da Maia
+19;Combatentes
+20;Crestins
+21;Custió
+22;Custóias
+23;Espaço Natureza
+24;Esposade
+25;Estádio do Dragão
+26;Estádio do Mar
+27;Faria Guimarães
+28;Fonte do Cuco
+29;Fórum Maia
+30;Francos
+31;General Torres
+32;Gustave Eiffel
+33;Heroísmo
+34;Hospital São João
+35;IPO
+36;ISMAI
+37;Jardim do Morro
+38;João de Deus
+39;Lapa
+40;Lidador
+41;Mandim
+42;Marquês
+43;Matosinhos
+44;Mercado
+45;Mindelo
+46;Modivas
+47;Modivas
+48;Muro
+49;Parque Maia
+50;Pedras Rubras
+51;Pedro Hispano
+52;Pias
+53;Pólo Universitário
+54;Portas Fronhas
+55;Póvoa de Varzim
+56;Ramalde
+57;Salgueiros
+58;Santa Clara
+59;São Bento
+60;São Brás
+61;Senhor de Matosinhos
+62;Senhora da Hora
+63;Serra
+64;Sete Bicas
+65;Trindade
+66;Trofa
+67;Varziela
+68;Vasco da Gama
+69;Verdes
+70;Vila do Conde
+71;Vilar do Pinheiro
+72;Viso
+73;Zona Industrial
